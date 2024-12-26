@@ -14,7 +14,7 @@ from torch import optim
 from sklearn.metrics import confusion_matrix
 import random
 from sklearn.metrics import roc_auc_score
-from model_attloss_nosumas1_twoindivbr import *
+from model import *
 import util
 import os
 import linecache
